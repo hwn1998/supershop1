@@ -1,0 +1,7 @@
+
+// 设置来取消eslint格式警告
+
+{
+  "semi":false,
+  "singleQuote": true,
+}
